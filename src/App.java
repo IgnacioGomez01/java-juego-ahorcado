@@ -44,7 +44,7 @@ public class App {
         }
 
         if (!palabraAdivinada) {
-            System.out.println("¡Que pena te has quedado sin intentos! GAME OVER");
+            System.out.println("¡Que pena te has quedado sin intentos! - FIN DEL JUEGO -");
         }
 
         scanner.close();
